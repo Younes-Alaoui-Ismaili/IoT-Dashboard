@@ -1,7 +1,3 @@
-It looks like you're sharing a local development URL for your IoT project. Here's how you could update the README to include a detailed description referencing the architecture and features shown in the diagram.
-
----
-
 # IoT Simulation and Monitoring System 🛠️📡  
 
 Welcome to the **IoT Simulation and Monitoring System** repository! This project provides a modular and scalable platform to simulate, manage, and monitor IoT ecosystems. It integrates cutting-edge technologies to handle real-time data streaming, lifecycle management for devices, and seamless integrations with IoT protocols and enterprise APIs.
